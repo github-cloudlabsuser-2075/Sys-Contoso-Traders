@@ -19,4 +19,3 @@ jobs:
           /subscriptions/20af4e0f-1435-43a8-be69-ab52b68f8022/resourceGroups/contoso-traders-rg1729124               
         scopes-ignore: |
           /subscriptions/20af4e0f-1435-43a8-be69-ab52b68f8022/resourceGroups/contoso-traders-rg1729124/providers/microsoft.authorization
-     
